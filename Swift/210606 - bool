@@ -13,4 +13,8 @@ if !isDarkkMode {
 
 var title : String = !isDarkkMode ? "다크모드가 아닙니다." : "다크모드 입니다." // title이란 string형태의 변수에 !isDarkMode라는 변수를 넣어주고 ?로 옳으면 왼쪽 틀리면 오른쪽을 출력
 print("title: \(title)")
- 
+
+//
+다크모드 아닙니다.
+title: 다크모드가 아닙니다.
+
